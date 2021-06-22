@@ -1,0 +1,4 @@
+name = "Eggman",
+author = "Caiden",
+description = "Eggman skin",
+comment = "I love my robots!",

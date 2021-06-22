@@ -1,0 +1,4 @@
+name = "Knuckles",
+author = "Caiden",
+description = "Knuckles skin",
+comment = "I'm just getting warmed up!",

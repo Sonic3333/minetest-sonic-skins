@@ -1,0 +1,2 @@
+#    When true character model will appear in formspec with current skin as texture
+sonic_skins_preview (Sonic Skins Preview) bool false

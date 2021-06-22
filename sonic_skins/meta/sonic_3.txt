@@ -1,0 +1,4 @@
+name = "Tails",
+author = "Caiden",
+description = "Tails skin",
+comment = "Lets invent!",

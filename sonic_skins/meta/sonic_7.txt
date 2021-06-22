@@ -1,0 +1,4 @@
+name = "Sonica",
+author = "Caiden",
+description = "Sonica skin",
+comment = "GO FAST!",
